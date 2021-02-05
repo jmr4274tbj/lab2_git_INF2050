@@ -1,7 +1,7 @@
 
 public class FizzBuzz {
 
-	public static final int NB_ITERATION = 100; 
+	public static final int NB_ITERATION = 200; 
 	public static final int DIV_FIZZ = 3;
 	public static final int DIV_BUZZ = 5;
 	
